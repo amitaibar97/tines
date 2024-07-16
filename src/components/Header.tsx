@@ -37,6 +37,7 @@ export default function Header() {
           <Search />
         </button>
       </nav>
+      {/* hey */}
       <div className="flex items-center space-x-2 text-xs justify-center ">
         <button className="hidden sm:block font-medium hover:bg-[#8d75e62e] focus:bg-[#8d75e62e] px-3 py-2 rounded-md">Log in</button>
         <div className=" text-slate-400 hidden sm:block text-base font-light">
